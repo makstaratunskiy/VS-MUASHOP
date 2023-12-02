@@ -1,0 +1,67 @@
+
+body {
+    background-color: aliceblue;
+}
+
+a {
+    color: brown;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    background-color: plum;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    color: sienna;
+    font-family: Times;
+}
+
+h5 {
+     font-size: 20px;
+     color: brown;
+ }
+
+img {
+    text-align: center;
+    border: 3px solid brown;
+}
+
+footer {
+    background-color: plum;
+    color: brown;
+    font-size: 20px;
+}
+
+table {
+    border-collapse:collapse; 
+    font-size:20px; 
+    border:1px solid firebrick;
+    background-color: plum;
+    color: black;
+    text-align: center;
+}
+
+tr {
+    border:1px solid firebrick;
+}
+
+td {
+    border:1px solid firebrick;
+}
+
